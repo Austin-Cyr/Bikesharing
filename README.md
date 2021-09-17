@@ -3,7 +3,7 @@ Module 14
 
 ## Overview of Analysis
 
-- This Bike Trip Analysis was created to supplement a business investor proposal for a bikesharing company based in Des Moines, Iowa. The data analysis of the New York Citibike progrem was developed in order to demonstrate various bikesharing data points from a current program in another city. The analysis looked at several factors that a business owner or investor may want to know about their potential customers in order to see how it might look in Des Moines. The analysis was presented via a Tableau Story of numerous maps and charts that illustrate the current use of bikes during the month of August in 2019 for New York City. The full analysis can be found here https://public.tableau.com/app/profile/austin.cyr/viz/NYC_CB_Challenge_Austin_Cyr/Story1
+- This Bike Trip Analysis was created to supplement a business investor proposal for a bikesharing company based in Des Moines, Iowa. The data analysis of the New York Citibike progrem was developed in order to demonstrate various bikesharing data points from a current program in another city. The analysis looked at several factors that a business owner or investor may want to know about their potential customers in order to see how it might look in Des Moines. The analysis was presented via a Tableau Story of numerous maps and charts that illustrate the current use of bikes during the month of August in 2019 for New York City. The full analysis can be found [HERE](https://public.tableau.com/app/profile/austin.cyr/viz/NYC_CB_Challenge_Austin_Cyr/Story1).
 
 ## Results
 
